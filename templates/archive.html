@@ -1,0 +1,10 @@
+<article class="post">
+  <h1>$title$</h1>
+  <form action="/search/" method="get">
+    <label for="q">Search: </label><input type="text" id="q" name="q" />
+  </form>
+  <ul id="archive">
+    $for(posts)$<li><a href="$url$">$title$</a><span>$date$</span></li>
+    $endfor$
+  </ul>
+</article>

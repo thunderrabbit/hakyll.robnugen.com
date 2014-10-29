@@ -1,0 +1,305 @@
+h1#logo a {
+    float: left;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+section#posts {
+    margin-left: 19em;
+    padding-bottom: 2em;
+}
+
+section#posts .large img {
+    max-height: 28.125em;
+    max-width: 37.5em;
+}
+
+section#posts a {
+    border-bottom: 2px dotted rgba(0,175,215,.3);
+    color: #aab;
+    text-decoration: none;
+}
+
+section#posts td {
+    padding-right: 1em;
+}
+
+.gs-no-results-result .gs-snippet {
+    background: none;
+    border-color: #875f5f!important;
+    padding: 1em!important;
+}
+
+.gs-result .gs-title,.gs-result .gs-title *,.gsc-cursor-box,.gsc-control-cse {
+    border: 0!important;
+    color: #aab!important;
+    text-decoration: none!important;
+}
+
+.gsc-above-wrapper-area {
+    display: none!important;
+}
+
+.gsc-control-cse,div.gsc-webresult.gsc-result {
+    background: none;
+}
+
+.gsc-webresult.gsc-result {
+    border-color: transparent!important;
+}
+
+.gsc-webresult.gsc-result:hover {
+    border-color: #ccc!important;
+}
+
+div.info {
+    margin-left: -.5em;
+}
+
+div.info,footer {
+    color: #999;
+    font-style: italic;
+}
+
+article.post .content {
+    color: #bbb;
+}
+
+div.wrapper {
+    margin-top: -1.5em;
+    min-height: 100%;
+    padding: 1em 1em .5em;
+}
+
+div.wrapper>* {
+    min-height: 100%;
+}
+
+a {
+    color: #00afd7!important;
+}
+
+a.read-more {
+    margin-left: -.5em;
+}
+
+article {
+    margin-left: .75em;
+    padding-bottom: 1em;
+}
+
+body {
+    background:#050505;
+    color: #ccc;
+    font-family: "monospace","dejavu sans";
+    margin: .02em;
+    max-width: 90em;
+    padding: 0;
+}
+
+body,html {
+    height: 100%;
+}
+
+code>span.al {
+    color: #ff6060;
+}
+
+code>span.bn {
+    color: #5f5f87;
+}
+
+code>span.ch {
+    color: #ff6060;
+}
+
+code>span.co {
+    color: #777;
+}
+
+code>span.dt {
+    color: #aca;
+}
+
+code>span.dv {
+    color: #5f5f87;
+}
+
+code>span.er {
+    color: #ff6060;
+}
+
+code>span.fl {
+    color: #5f5f87;
+}
+
+code>span.fu {
+    color: #875f5f;
+}
+
+code>span.kw {
+    color: #ffffaf;
+}
+
+code>span.ot {
+    color: #767676;
+}
+
+code>span.st {
+    color: silver;
+}
+
+dd {
+    margin: .5em 0;
+    text-align: right;
+}
+
+dt {
+    float: left;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h1 a {
+    color: #00dfd7!important;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #00dfd7;
+    margin-left: -.5em;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+header#top a,footer a {
+    text-decoration: none;
+}
+
+header#top h1 {
+    font-size: 1em;
+}
+
+header#top h1 a {
+    color: #ccc!important;
+}
+
+header#top ul {
+    list-style: none;
+    padding: 0;
+    text-align: right;
+}
+
+footer {
+    width: 16em;
+    margin: 0 auto;
+}
+
+hr {
+    border: 0;
+    border-bottom: 2px dotted rgba(0,175,215,.5);
+    height: 1px;
+}
+
+input#q {
+    background: #050505;
+    border: solid 1px #333;
+    color: #ddd;
+    padding: 3px;
+}
+
+pre {
+    background: rgba(0,5,10,.7);
+    box-shadow: 0 0 .2em 0 #00afd7, inset 0 0 .6em 0 #000;
+    font-family: "dejavu sans mono","monospace";
+    color: #7f7f7f;
+    padding: .7em;
+    transition: max-height 1s,box-shadow .5s;
+    -webkit-transition: max-height 1s,box-shadow .5s;
+}
+
+pre:hover,pre:focus {
+    box-shadow: 0 0 .2em 0 #e16a98, inset 0 0 .6em 0 #000;
+    outline: 0;
+}
+
+pre:not(.showall) {
+    max-height: 16em;
+    min-height: 1em;
+    overflow: auto;
+}
+
+pre:not(.showall):hover,pre:not(.showall):focus {
+    max-height: 60em;
+}
+
+ul {
+    padding-left: 1.5em;
+}
+
+ul#archive li {
+    border-bottom: 1px dotted rgba(4,4,4,.7);
+    width: 100%;
+}
+
+ul#archive span {
+    float: right;
+}
+
+@media not screen and (min-width:80em) {
+    section#posts {
+        margin: 0 auto;
+    }
+
+    header#top li {
+        display: inline;
+        margin-left: 1em;
+    }
+}
+
+@media only screen and (min-width:80em) {
+    header#top {
+        background: #090909;
+        box-shadow: 0 0 .3em 0 #00afd7;
+        left: 0;
+        padding: 1em;
+        position: fixed;
+        top: -1px;
+        width: 16em;
+    }
+
+    header#top h1{
+        margin-left: 0.5em;
+        margin-bottom: 3em;
+        height: 16em;
+        background:url(/images/fox.png) no-repeat;
+        background-size: contain;
+    }
+    
+    header#top h1 a {
+        text-indent:-999px;
+    }
+
+    header#top nav li {
+        margin: 1em;
+        text-decoration: none;
+    }
+}
+
+@media only screen and (min-height:40em) and (min-width:80em) {
+    footer {
+        bottom: 0;
+        padding: 1em;
+        position: fixed;
+        width: 16em;
+    };
+}
+
+@media only screen and (max-width:40em) {
+    div.large img {
+        width: 100%;
+    };
+}

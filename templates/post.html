@@ -1,0 +1,14 @@
+<article>
+  <header>
+    <h1><a href="$url$">$title$</a></h1>
+    $if(author)$
+    <div class="info">Posted on <time datetime="$Tdate$">$date$</time> by $author$.</div>
+    $endif$
+  </header>
+  $if(teaser)$
+  $teaser$
+  <a href="$url$" class="read-more">Continue reading…</a>
+  $else$
+  $body$
+  $endif$
+</article>
