@@ -141,4 +141,4 @@ removeIndexHtml = return . (withUrls removeIndexStr <$>)
             (d, "index.html") | isLocal d -> d
             _                             -> u
         isLocal :: String -> Bool
-        isLocal = not . (isInfixOf "://")
+        isLocal = not . isInfixOf "://"
