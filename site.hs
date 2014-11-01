@@ -56,7 +56,7 @@ main = hakyllWith config $ do
     -- With all posts in a list, create the archive. TODO: paginate.
     create ["archive/index.html"] $ do
         route idRoute
-        compile $ makeItem ""
+        compile $ makeItem ("" :: String)
           >>= loadAndApplyTemplate "templates/archive.html"
               (listField "posts" dateCtx
                 (loadAllSnapshots posts "content" >>= recentFirst)
@@ -69,7 +69,7 @@ main = hakyllWith config $ do
     -- Compile the latest 10 posts into teasers. TODO: paginate.
     create ["index.html"] $ do
         route idRoute
-        compile $ makeItem ""
+        compile $ makeItem ("" :: String)
           >>= loadAndApplyTemplate "templates/index.html"
               (listField "posts" (dateCtx <> teaserCtx)
                 (loadAllSnapshots posts "content" >>= recentFirst)
