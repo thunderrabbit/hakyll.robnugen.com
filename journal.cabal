@@ -10,6 +10,7 @@ executable site
   default-language:   Haskell2010
   default-extensions: OverloadedStrings
   build-depends:      base >= 4.7,
+                      directory >= 1.2,
                       filepath >= 1.3,
                       hakyll == 4.5.*,
                       tagsoup >= 0.13

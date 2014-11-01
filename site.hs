@@ -1,13 +1,20 @@
 module Main where
 
 -- [HP] http://hackage.haskell.org/package/base
+import Control.Exception (catch)
 import Data.Monoid ((<>), mempty)
 
+-- [HP] http://hackage.haskell.org/package/directory
+import System.Directory (setCurrentDirectory)
+
 -- [HP] http://hackage.haskell.org/package/filepath
-import System.FilePath (splitFileName)
+import System.FilePath (combine, splitFileName)
 
 -- [HP] http://hackage.haskell.org/package/haskell2010
 import Data.List (isInfixOf)
+import System.Environment (getEnv)
+import System.Exit (exitFailure)
+import System.IO (hPutStrLn, stderr)
 
 -- http://hackage.haskell.org/package/hakyll
 import Hakyll
@@ -60,10 +67,10 @@ feedNumPosts :: Int
 feedNumPosts = 15
 
 ------------------------------------------------------------------------------
--- main
+-- rules
 
-main :: IO ()
-main = hakyllWith hakyllConfig $ do
+siteRules :: Rules ()
+siteRules = do
     -- Compile templates.
     match "templates/*" $ compile templateCompiler
 
@@ -189,3 +196,22 @@ removeIndexHtml = return . fmap (withUrls process)
 
     isLocal :: String -> Bool
     isLocal = not . isInfixOf "://"
+
+------------------------------------------------------------------------------
+-- main
+
+main :: IO ()
+main = do
+    catch (cdHomeDir "journal") cdHomeDirErr
+    hakyllWith hakyllConfig siteRules
+  where
+    cdHomeDir :: FilePath -> IO ()
+    cdHomeDir subdir = do
+      homeDir <- getEnv "HOME"
+      setCurrentDirectory $ homeDir `combine` subdir
+
+    cdHomeDirErr :: IOError -> IO ()
+    cdHomeDirErr err = do
+      hPutStrLn stderr "error: unable to change to project directory"
+      hPutStrLn stderr $ show err
+      exitFailure
