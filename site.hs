@@ -102,8 +102,8 @@ main = hakyllWith hakyllConfig $ do
         >>= relativizeUrls
 
     -- Compile root content.
-    match ("about.markdown" .||. "contact.markdown" .||.
-           "search.markdown" .||. "travels.markdown") $ do
+    match ("about.md" .||. "contact.md" .||.
+           "search.md" .||. "travels.md") $ do
       route mdToDirRoute
       compile $ pandocCompiler
         >>= loadAndApplyTemplate "templates/default.html" defaultCtx
@@ -168,7 +168,7 @@ routeRemove s = gsubRoute s (const "")
 
 -- | Route Markdown files to an index.html file in a directory.
 mdToDirRoute :: Routes
-mdToDirRoute = gsubRoute ".markdown" (const "/index.html")
+mdToDirRoute = gsubRoute ".md" (const "/index.html")
 
 -- | Make all pre tags focusable by adding the attribute tabindex="0".
 makePreFocusable :: String -> String
