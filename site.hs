@@ -1,4 +1,4 @@
-{-# LANGUAGE OverloadedStrings, LambdaCase #-}
+{-# LANGUAGE OverloadedStrings #-}
 import           Control.Applicative       ((<$>))
 import           Data.Monoid               ((<>), mempty)
 import           Data.List                 (isInfixOf)
@@ -99,9 +99,11 @@ config = defaultConfiguration
 
 -- | Make all <pre>'s focusable by adding the attribute tabindex="0".
 mkPreFocusable :: String -> String
-mkPreFocusable = withTags $ \case
-    TS.TagOpen "pre" a -> TS.TagOpen "pre" $ ("tabindex", "0"):a
-    t                  -> t
+mkPreFocusable = withTags process
+  where
+    process :: TS.Tag String -> TS.Tag String
+    process (TS.TagOpen "pre" a) = TS.TagOpen "pre" $ ("tabindex", "0") : a
+    process t                    = t
 
 listToFields :: [(String, String)] -> Context String
 listToFields ((k, v):xs) = constField k v <> listToFields xs
