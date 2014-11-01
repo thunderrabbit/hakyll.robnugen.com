@@ -53,15 +53,20 @@ feedConfig subtitle = FeedConfiguration
 
 main :: IO ()
 main = hakyllWith hakyllConfig $ do
-    -- Copy static files.
-    match ("images/**" .||. "static/**") $ do
-        route $ gsubRoute "^static/" (const "")
-        compile copyFileCompiler
+    -- Copy static files into the root.
+    match "static/*" $ do
+      route $ gsubRoute "^static/" (const "")
+      compile copyFileCompiler
 
-    -- Copy and compress the css.
-    match "css/**" $ do
-        route   idRoute
-        compile compressCssCompiler
+    -- Copy image files.
+    match "images/**" $ do
+      route idRoute
+      compile copyFileCompiler
+
+    -- Copy and compress CSS files.
+    match "css/*" $ do
+      route idRoute
+      compile compressCssCompiler
 
     -- Compile each blog post and save a teaser for later use.
     match (posts .||. travels .||. "*.markdown") $ do
