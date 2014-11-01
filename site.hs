@@ -1,11 +1,20 @@
 module Main where
 
-import           Control.Applicative       ((<$>))
-import           Data.Monoid               ((<>), mempty)
-import           Data.List                 (isInfixOf)
-import           System.FilePath           (splitFileName)
-import qualified Text.HTML.TagSoup   as TS (Tag(TagOpen))
-import           Hakyll
+-- [HP] http://hackage.haskell.org/package/base
+import Control.Applicative ((<$>))
+import Data.Monoid ((<>), mempty)
+
+-- [HP] http://hackage.haskell.org/package/filepath
+import System.FilePath (splitFileName)
+
+-- [HP] http://hackage.haskell.org/package/haskell2010
+import Data.List (isInfixOf)
+
+-- http://hackage.haskell.org/package/hakyll
+import Hakyll
+
+-- http://hackage.haskell.org/package/tagsoup
+import qualified Text.HTML.TagSoup as TS (Tag(TagOpen))
 
 main :: IO ()
 main = hakyllWith config $ do
