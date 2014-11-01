@@ -1,3 +1,5 @@
+module Main where
+
 import           Control.Applicative       ((<$>))
 import           Data.Monoid               ((<>), mempty)
 import           Data.List                 (isInfixOf)
