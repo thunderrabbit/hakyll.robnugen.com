@@ -1,4 +1,3 @@
-{-# LANGUAGE OverloadedStrings #-}
 import           Control.Applicative       ((<$>))
 import           Data.Monoid               ((<>), mempty)
 import           Data.List                 (isInfixOf)
