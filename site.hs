@@ -16,10 +16,45 @@ import Hakyll
 -- http://hackage.haskell.org/package/tagsoup
 import qualified Text.HTML.TagSoup as TS (Tag(TagOpen))
 
+------------------------------------------------------------------------------
+-- configuration
+
+-- | Site configuration: used to define the default context
+siteConfig :: [(String, String)]
+siteConfig =
+    [ ("sTitle",       "Keep Pushing the Limits")
+    , ("mAuthor",      "Rob Nugen, <hakyll.robnugen.com@robnugen.com>")
+    , ("mDescription", "blatherings of Rob Nugen; don't read unless bored.")
+    , ("mKeywords",    "blah, blah, blah")
+    ]
+
+-- | Hakyll configuration: used to define deployment commands
+hakyllConfig :: Configuration
+hakyllConfig = defaultConfiguration
+    { deployCommand = rsync ++ "_site/ ~/public; " ++
+                      rsync ++ "_site/ hakyll:/usr/share/nginx/html"
+    }
+  where
+    rsync :: String
+    rsync = "rsync -avcz --no-p --no-g --chmod=a+r --checksum "
+
+-- | Feed configuration
+feedConfig :: String -> FeedConfiguration
+feedConfig subtitle = FeedConfiguration
+    { feedTitle       = "Rob Nugen - " ++ subtitle
+    , feedDescription = "blatherings of Rob Nugen; don't read unless bored."
+    , feedAuthorName  = "Rob Nugen - thunderrabbit"
+    , feedAuthorEmail = "hakyll.robnugen.com@robnugen.com"
+    , feedRoot        = "http://hakyll.robnugen.com"
+    }
+
+------------------------------------------------------------------------------
+-- main
+
 main :: IO ()
-main = hakyllWith config $ do
+main = hakyllWith hakyllConfig $ do
     -- Copy static files.
-    match (("exploits/**" .||. "images/**" .||. "posts/**" .||. "static/**")
+    match (("travels/**" .||. "images/**" .||. "posts/**" .||. "static/**")
           .&&. complement "**.markdown") $ do
         route $ gsubRoute "^(posts|static)/" (const "")
         compile copyFileCompiler
@@ -30,7 +65,7 @@ main = hakyllWith config $ do
         compile compressCssCompiler
 
     -- Compile each blog post and save a teaser for later use.
-    match (posts .||. exploits .||. "*.markdown") $ do
+    match (posts .||. travels .||. "*.markdown") $ do
         route   $ gsubRoute "posts/" (const "") `composeRoutes`
                   markdownToFolderRoute
         compile $ pandocCompiler
@@ -47,7 +82,7 @@ main = hakyllWith config $ do
         route idRoute
         compile $ loadAllSnapshots posts "content"
           >>= (take 15 <$>) . recentFirst
-          >>= renderAtom (feedConfiguration "All posts")
+          >>= renderAtom (feedConfig "All posts")
                   (teaserField "description" "content"
                 <> bodyField "description" 
                 <> defaultContext)
@@ -83,29 +118,14 @@ main = hakyllWith config $ do
     -- Compile the templates
     match "templates/*" $ compile templateCompiler
   where
-    exploits   = "exploits/**.markdown"
+    travels   = "travels/**.markdown"
     posts      = "posts/**.markdown"
     archiveCtx = constField  "title"  "Archives"
     dateCtx    = dateField   "date"   "%B %e, %Y"
                  <> dateField "Tdate" "%Y-%m-%d"
                  <> defaultContext
-    defaultCtx = listToFields siteConf            <> defaultContext
+    defaultCtx = listToFields siteConfig          <> defaultContext
     teaserCtx  = teaserField "teaser" "content"   <> defaultContext
-
-siteConf :: [(String, String)]
-siteConf =
-    [ ("sTitle",       "DarkFox's Bλog")
-    , ("mAuthor",      "James McGlashan, <df@darkfox.us.to>")
-    , ("mDescription", "Blog of DarkFox, security and privacy minded hacker")
-    , ("mKeywords",    "security, hacking, privacy")
-    ]
-
--- | Deploy the site to ~/public using rsync.
-config :: Configuration
-config = defaultConfiguration
-    { deployCommand = "rsync -avcz --no-p --no-g --chmod=a+r --checksum _site/ ~/public;" ++
-                      "rsync -avcz --no-p --no-g --chmod=a+r --checksum _site/ turtil.net:/srv/vhosts/darkfox.us.to/public/"
-    }
 
 -- | Make all <pre>'s focusable by adding the attribute tabindex="0".
 mkPreFocusable :: String -> String
@@ -118,16 +138,6 @@ mkPreFocusable = withTags process
 listToFields :: [(String, String)] -> Context String
 listToFields ((k, v):xs) = constField k v <> listToFields xs
 listToFields _           = mempty
-
--- | Configuration for the feed.
-feedConfiguration :: String -> FeedConfiguration
-feedConfiguration t   = FeedConfiguration
-    { feedTitle       = "DarkFox - " ++ t
-    , feedDescription = "Personal blog of DarkFox"
-    , feedAuthorName  = "James McGlashan - DarkFox"
-    , feedAuthorEmail = "archeydevil@gmail.com"
-    , feedRoot        = "http://darkfox.hackerhaven.net"
-    }
 
 -- | Replace .markdown with /index.html, creating a folder for the page.
 markdownToFolderRoute :: Routes
