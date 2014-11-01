@@ -54,9 +54,8 @@ feedConfig subtitle = FeedConfiguration
 main :: IO ()
 main = hakyllWith hakyllConfig $ do
     -- Copy static files.
-    match (("travels/**" .||. "images/**" .||. "posts/**" .||. "static/**")
-          .&&. complement "**.markdown") $ do
-        route $ gsubRoute "^(posts|static)/" (const "")
+    match ("images/**" .||. "static/**") $ do
+        route $ gsubRoute "^static/" (const "")
         compile copyFileCompiler
 
     -- Copy and compress the css.
