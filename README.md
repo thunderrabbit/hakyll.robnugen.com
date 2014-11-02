@@ -1,9 +1,3 @@
----
-author: Me
-date: 2013-04-01
-title: About
----
-
 This Site
 =========
 

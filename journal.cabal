@@ -1,6 +1,6 @@
 name:           journal
 version:        0.1.0.0
-author:         Rob Nugen <rob.nugen@robnugen.com>
+author:         Me <example@example.net>
 build-type:     Simple
 cabal-version:  >=1.10
 
