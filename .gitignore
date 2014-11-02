@@ -1,7 +1,6 @@
 _cache/
 _darcs/
 _site/
-site
-*.hi
-*.o
-*~
+dist/
+.cabal-sandbox/
+cabal.sandbox.config
