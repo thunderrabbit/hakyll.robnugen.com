@@ -1,9 +1,5 @@
 ---
-title: List of travels
+title: Travels
 ---
 
-#Places I've been
-
-- [North Pole](/travels/northpole/)
-- [Equator](/travels/equator/)
-- [South Pole](/travels/southpole/)
+Under Construction (haha)

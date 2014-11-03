@@ -89,9 +89,9 @@ article {
 }
 
 body {
-    background:#050505;
-    color: #ccc;
-    font-family: "monospace","dejavu sans";
+    background:#fff;
+    color: #000;
+    font-family: Arial, sans-serif;
     margin: .02em;
     max-width: 90em;
     padding: 0;
@@ -101,6 +101,13 @@ body,html {
     height: 100%;
 }
 
+p>code {
+    box-shadow: 0 0 .2em 0 rgba(210,210,255,1), inset 0 0 .1em 0 blue;
+    padding: 0 .7em 0 .7em;
+}
+code {
+    font-size: large;
+}
 code>span.al {
     color: #ff6060;
 }
@@ -159,20 +166,41 @@ dt {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 2.5em;
 }
 
 h1 a {
-    color: #00dfd7!important;
+    color: blue;
 }
 
 h1,h2,h3,h4,h5,h6 {
-    color: #00dfd7;
     margin-left: -.5em;
 }
 
+h1 {
+    color: #0000ff;
+}
+
+
 h2 {
+    color: #1111ff;
     font-size: 1.2em;
+}
+
+h3 {
+    color: #2222ff;
+}
+
+h4 {
+    color: #3333ff;
+}
+
+h5 {
+    color: #4444ff;
+}
+
+h6 {
+    color: #5555ff;
 }
 
 header#top a,footer a {
@@ -184,7 +212,7 @@ header#top h1 {
 }
 
 header#top h1 a {
-    color: #ccc!important;
+    color: blue!important;
 }
 
 header#top ul {
@@ -205,15 +233,15 @@ hr {
 }
 
 input#q {
-    background: #050505;
+    background: #fff;
     border: solid 1px #333;
     color: #ddd;
     padding: 3px;
 }
 
 pre {
-    background: rgba(0,5,10,.7);
-    box-shadow: 0 0 .2em 0 #00afd7, inset 0 0 .6em 0 #000;
+    background: #fff;
+    box-shadow: 0 0 .2em 0 rgba(210,210,255,1), inset 0 0 .6em 0 blue;
     font-family: "dejavu sans mono","monospace";
     color: #7f7f7f;
     padding: .7em;
@@ -262,8 +290,8 @@ ul#archive span {
 
 @media only screen and (min-width:80em) {
     header#top {
-        background: #090909;
-        box-shadow: 0 0 .3em 0 #00afd7;
+        background: #fff;
+        box-shadow: 0 0 .3em 0 #0ff;
         left: 0;
         padding: 1em;
         position: fixed;
@@ -275,7 +303,7 @@ ul#archive span {
         margin-left: 0.5em;
         margin-bottom: 3em;
         height: 16em;
-        background:url(/images/logo.png) no-repeat;
+/*        background:url(/images/fox.png) no-repeat; */
         background-size: contain;
     }
     
