@@ -12,4 +12,4 @@ that I could split my personal junk out of the basic journal.
 Especially after Travis did a lot of nice refactoring, I wanted to
 include that in a nice version that people could download and use.
 
-It's done now, and I learned about git clone <repo> --single-branch
+It's done now, and I learned about ```git clone repo.git --single-branch```
