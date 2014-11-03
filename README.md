@@ -14,7 +14,7 @@ Installation
 ###get code
 
 ```
-git clone https://github.com/thunderrabbit/hakyll-journal.git journal
+git clone https://github.com/thunderrabbit/hakyll-journal.git --single-branch journal
 cd journal    # see 'modify site.hs if needed' below
 cabal sandbox init
 cabal install --only-dependencies
