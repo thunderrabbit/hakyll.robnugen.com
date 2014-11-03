@@ -211,8 +211,12 @@ header#top h1 {
     font-size: 1em;
 }
 
-header#top h1 a {
-    color: blue!important;
+header#top h1{
+    margin-left: 0.5em;
+    margin-bottom: 3em;
+    height: 16em;
+    background:url(/images/logo.png) no-repeat;
+    background-size: contain;
 }
 
 header#top ul {
