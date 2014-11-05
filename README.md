@@ -48,9 +48,9 @@ Note, ```hakyll``` (and the path to which this site is designed to be remotely d
 
 While/after ```cabal install --only-dependencies``` finishes, optionally edit ```~/journal/site.hs```:
 
-Lines 40 and 41 specify where the site will be deployed.  Currently it's deployed to ~/public on local machine, and to a server identified as "hakyll" via ```~/.ssh/config```.
+Lines 40 and 41 specify where the site will be deployed.  Currently it's deployed to ```~/public``` on local machine, and to a server identified as "hakyll" via ```~/.ssh/config```.
 
-Line 205 specifies that the site lives at ~/journal``` on your local machine.  Because this installation knows where it lives, ```site build``` and ```site deploy``` can be run from anywhere.
+Line 205 specifies that the site lives at ```~/journal``` on your local machine.  Because this installation knows where it lives, ```site build``` and ```site deploy``` can be run from anywhere.
 
 ###finish compilation
 
@@ -88,7 +88,7 @@ and visit [your site locally](http://localhost:8000).
 
 Update your blog files in ```~/journal/posts/yyyy/mm/dd directories```
 
-Update .md files in ~/journal/ to include your personalized info.
+Update .md files in ```~/journal/``` to include your personalized info.
 
 After making your changes, build and deploy to see them on your site.
 
