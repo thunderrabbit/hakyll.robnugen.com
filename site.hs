@@ -117,7 +117,7 @@ siteRules = do
 
     -- Compile root content.
     match ("about.md" .||. "contact.md" .||.
-           "search.md" .||. "travels.md") $ do
+           "search.md" .||. "travels.md" .||. "idols.md") $ do
       route mdToDirRoute
       compile $ pandocCompiler
         >>= loadAndApplyTemplate "templates/default.html" defaultCtx
