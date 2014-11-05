@@ -1,10 +1,11 @@
 ---
-author: Me
-date: 2013-02-12
+author: Rob Nugen
+date: 2014-10-29
 title:  Contact
 ---
 
-Email
-=====
-
-example@example.net
+    e: any username you like @robnugen.com
+    T: @thunderrabbit
+    S: thunderrabbit
+    h: robnugen.com
+    p: 090-8560-四０六九
