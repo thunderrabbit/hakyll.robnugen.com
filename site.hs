@@ -108,8 +108,16 @@ siteRules = do
         >>= removeIndexHtml
         >>= relativizeUrls
 
+    -- Compile idols content.
+    match "idols/**" $ do
+      route mdToDirRoute
+      compile $ pandocCompiler
+        >>= loadAndApplyTemplate "templates/default.html" defaultCtx
+        >>= removeIndexHtml
+        >>= relativizeUrls
+
     -- Compile root content.
-    match ("about.md" .||. "contact.md" .||.
+    match ("about.md" .||. "contact.md" .||. "idols.md" .||.
            "search.md" .||. "travels.md") $ do
       route mdToDirRoute
       compile $ pandocCompiler
