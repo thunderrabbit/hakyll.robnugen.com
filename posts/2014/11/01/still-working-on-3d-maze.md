@@ -11,4 +11,4 @@ I spent a few hours working on the 3D maze I started about a week ago.  There mu
 
 I might remember to see if Gimp can do it before I finish this maze.  Here it is so far:
 
-![dark sections are 'under' light sections](/images/2014/11/3D maze progress so far.png)
+[![dark sections are 'under' light sections](/images/2014/11/thumbs/3D maze progress so far.png)](/images/2014/11/3D maze progress so far.png)

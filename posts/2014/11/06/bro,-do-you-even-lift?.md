@@ -19,6 +19,6 @@ Anyway, I tried logging in to their coaching seminar, but was unable.  I had pla
 
 Here's how far I got:
 
-![No lift for me](/images/2014/11/No Lift for you.png)
+[![No lift for me](/images/2014/11/thumbs/No Lift for you.png)](/images/2014/11/No Lift for you.png)
 
 Back to bed!

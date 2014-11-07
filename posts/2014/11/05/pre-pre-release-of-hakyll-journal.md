@@ -24,4 +24,4 @@ I've been watching my new/old/new hakyll-journal repository, and just
 happened to catch the first little bit, 3 minutes after he committed
 it.
 
-![hakyll-journal age 3 minutes](/images/2014/11/hakyll-journal age 3 minutes.png)
+[![hakyll-journal age 3 minutes](/images/2014/11/thumbs/hakyll-journal age 3 minutes.png)](/images/2014/11/hakyll-journal age 3 minutes.png)

@@ -38,3 +38,11 @@ Things to do related to this Hakyll static site:
 15. Start moving other junk off my old provider (Dreamhost, you've been a great workhorse for many years; thank you.  I'm sure we'll be in touch.)
 
 I'm not sure yet about one thing, though: what to call the domain during the transition.  I'm thinking it will be new.robnugen.com to start, but I don't totally like it.  I could buy a new domain and let fly2.nu fly away, or one of the others I've not really used.  Hmmm.
+
+##a bit later##
+
+The dark version is DarkFox's original CSS:
+
+[![DarkFox CSS](/images/2014/10/thumbs/DarkFox CSS.png)](/images/2014/10/DarkFox CSS.png)
+
+[![thunderrabbit CSS](/images/2014/10/thumbs/Thunderrabbit CSS.png)](/images/2014/10/Thunderrabbit CSS.png)

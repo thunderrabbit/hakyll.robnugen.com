@@ -15,7 +15,7 @@ We don't have internet connected yet, but have fiber installed in our living roo
 
 Yesterday I went to an electric shop looking for coaxial cable for the TV connection.  (sigh)   They only had 5m max (not nearly far enough to reach the station!!) but I needed 15 meters (routed at right angles along the edges of the room) to reach the spot where Lin wants the TV.  They said it would take a day at 9800 yen to make.  Ummmmm no thanks.
 
-On the way home, I saw an old guy^H^H^H^H^H^H^H elderly gentleman in a shop that looked like my dad's garage.   I scoped the signs and could read enough to know he was a handyman.  I was like, "hey, uh, do you happen to have coaxial TV cable?"
+On the way home, I saw an ~~old guy~~ elderly gentleman in a shop that looked like my dad's garage.   I scoped the signs and could read enough to know he was a handyman.  I was like, "hey, uh, do you happen to have coaxial TV cable?"
 
 He had to dig around a bit, but the short version is YES, he made 15 meters and gave it to me free.  whoooooo!!!!
 
