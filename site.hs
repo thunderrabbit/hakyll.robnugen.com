@@ -60,7 +60,7 @@ indexTitle = "Blog"
 
 -- | Number of post teasers included on index.html
 indexNumPosts :: Int
-indexNumPosts = 10
+indexNumPosts = 70
 
 -- | Number of post teasers included in the feed.
 feedNumPosts :: Int
