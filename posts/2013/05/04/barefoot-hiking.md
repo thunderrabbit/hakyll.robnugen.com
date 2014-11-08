@@ -26,19 +26,19 @@ Outside the tunnel (or maybe a different one; there were many), Yuri had us try 
 
 According to Travis's pedometer, he walked 28,000 steps. My pedometer app said 25,000. I kinda trust his more.
 
-[![20130504-161943.jpg](http://robnugen.com/blog/wp-content/uploads/2013/05/20130504-161943.jpg)](http://robnugen.com/blog/wp-content/uploads/2013/05/20130504-161943.jpg)
+[![20130504-161943.jpg](/images/2013/05/20130504-161943.jpg)](/images/2013/05/20130504-161943.jpg)
 
 
 
 The four kanji are the name of the tunnel.  As best I can tell, they mean "stone collapse tunnel"  [石崩隧道](http://translate.google.com/#ja/en/%E7%9F%B3%E5%B4%A9%E9%9A%A7%E9%81%93)
 
-[![20130504-162018.jpg](http://robnugen.com/blog/wp-content/uploads/2013/05/20130504-162018.jpg)](http://robnugen.com/blog/wp-content/uploads/2013/05/20130504-162018.jpg)
+[![20130504-162018.jpg](/images/2013/05/20130504-162018.jpg)](/images/2013/05/20130504-162018.jpg)
 
 
 
 water behind a dam was super clear!
 
-[![20130504-162041.jpg](http://robnugen.com/blog/wp-content/uploads/2013/05/20130504-162041.jpg)](http://robnugen.com/blog/wp-content/uploads/2013/05/20130504-162041.jpg)
+[![20130504-162041.jpg](/images/2013/05/20130504-162041.jpg)](/images/2013/05/20130504-162041.jpg)
 
 
 

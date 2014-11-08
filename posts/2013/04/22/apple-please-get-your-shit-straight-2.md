@@ -22,7 +22,7 @@ To complete your purchase and access your Apple Developer Program benefits,
 please click on the activation code below.
 
 
-[![Screen Shot 2013-04-22 at 6.51.40 AM](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-6.51.40-AM.png)](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-6.51.40-AM.png)
+[![Screen Shot 2013-04-22 at 6.51.40 AM](/images/2013/04/Screen-Shot-2013-04-22-at-6.51.40-AM.png)](/images/2013/04/Screen-Shot-2013-04-22-at-6.51.40-AM.png)
 
 So I clicked the link and it asked me to sign in. Why should I sign in when they sent me a confirmation link?
 
@@ -30,17 +30,17 @@ So I signed in and it asked me to enter my activation code.
 
 wtf? Well maybe it lost its brain when I logged in. While still signed in, I went back to my email and clicked the link, which includes the code.
 
-[![Screen Shot 2013-04-22 at 6.51.58 AM](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-6.51.58-AM.png)](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-6.51.58-AM.png)
+[![Screen Shot 2013-04-22 at 6.51.58 AM](/images/2013/04/Screen-Shot-2013-04-22-at-6.51.58-AM.png)](/images/2013/04/Screen-Shot-2013-04-22-at-6.51.58-AM.png)
 
 THEY STILL WANT ME TO ENTER THE CODE!!!!
 
-[![Screen Shot 2013-04-22 at 6.52.14 AM](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-6.52.14-AM.png)](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-6.52.14-AM.png)
+[![Screen Shot 2013-04-22 at 6.52.14 AM](/images/2013/04/Screen-Shot-2013-04-22-at-6.52.14-AM.png)](/images/2013/04/Screen-Shot-2013-04-22-at-6.52.14-AM.png)
 
 Apple, please read Apple's "User Experience Guidelines" currently at [http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/UEBestPractices/UEBestPractices.html](http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/UEBestPractices/UEBestPractices.html) (though I'm sure that will change to a broken link in the future)
 
 Anyway, Apple, please read your own UX Guidelines and fix the UX in your products. CLICKING A LINK IN EMAIL IS A SOLVED PROBLEM.
 
-[![Screen Shot 2013-04-22 at 7.15.19 AM](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-7.15.19-AM-1024x320.png)](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-7.15.19-AM.png)
+[![Screen Shot 2013-04-22 at 7.15.19 AM](/images/2013/04/Screen-Shot-2013-04-22-at-7.15.19-AM-1024x320.png)](/images/2013/04/Screen-Shot-2013-04-22-at-7.15.19-AM.png)
 
 
 
@@ -50,7 +50,7 @@ Anyway, Apple, please read your own UX Guidelines and fix the UX in your product
 
 Bug report #13702641 posted
 
-[![Screen Shot 2013-04-22 at 7.42.19 AM](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-7.42.19-AM.png)](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-7.42.19-AM.png)
+[![Screen Shot 2013-04-22 at 7.42.19 AM](/images/2013/04/Screen-Shot-2013-04-22-at-7.42.19-AM.png)](/images/2013/04/Screen-Shot-2013-04-22-at-7.42.19-AM.png)
 
 
 > Summary: Email says "click the link" but resulting page says "enter the code (which was in the link you just clicked)"

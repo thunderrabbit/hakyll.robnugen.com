@@ -20,4 +20,4 @@ How many circles are in a fully revealed image?
 
 I posted an image in the [Koalas to the Max! thread on trackmill forums](http://trackmill.com/forums/showthread.php?p=342487#post342487)
 
-[![Screen Shot 2013-01-03 at 7.54.38 AM](http://robnugen.com/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-03-at-7.54.38-AM.png)](http://robnugen.com/blog/2013/01/03/colleens-painting-on-koalastothemax/screen-shot-2013-01-03-at-7-54-38-am/)
+[![Screen Shot 2013-01-03 at 7.54.38 AM](/images/2013/01/Screen-Shot-2013-01-03-at-7.54.38-AM.png)](http://robnugen.com/blog/2013/01/03/colleens-painting-on-koalastothemax/screen-shot-2013-01-03-at-7-54-38-am/)

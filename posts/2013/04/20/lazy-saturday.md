@@ -18,4 +18,4 @@ Yesterday was similar to today except it was more like minecraft, porn, sleep, e
 
 In minecraft, I'm building a roller coaster or two (using creative mode).
 
-[![Screen Shot 2013-04-22 at 12.12.59 AM](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-12.12.59-AM-1024x576.png)](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-22-at-12.12.59-AM.png)
+[![Screen Shot 2013-04-22 at 12.12.59 AM](/images/2013/04/Screen-Shot-2013-04-22-at-12.12.59-AM-1024x576.png)](/images/2013/04/Screen-Shot-2013-04-22-at-12.12.59-AM.png)

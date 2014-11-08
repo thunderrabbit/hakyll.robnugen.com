@@ -27,10 +27,10 @@ I noticed "have" where they should have "hate" hahah ooops.
 
 Looks like it's been that way for a while, but not since the beginning
 
-[![Screen Shot 2013-01-27 at 8.57.00 AM](http://robnugen.com/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-27-at-8.57.00-AM.png)](http://robnugen.com/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-27-at-8.57.00-AM.png)
+[![Screen Shot 2013-01-27 at 8.57.00 AM](/images/2013/01/Screen-Shot-2013-01-27-at-8.57.00-AM.png)](/images/2013/01/Screen-Shot-2013-01-27-at-8.57.00-AM.png)
 
 But at least since June 2011, the version in iTunes español store has had the typo:
 
-_ [![Screen Shot 2013-01-27 at 8.56.34 AM](http://robnugen.com/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-27-at-8.56.34-AM.png)](http://robnugen.com/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-27-at-8.56.34-AM.png)_
+_ [![Screen Shot 2013-01-27 at 8.56.34 AM](/images/2013/01/Screen-Shot-2013-01-27-at-8.56.34-AM.png)](/images/2013/01/Screen-Shot-2013-01-27-at-8.56.34-AM.png)_
 
-[![Screen Shot 2013-01-27 at 9.14.18 AM](http://robnugen.com/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-27-at-9.14.18-AM.png)](http://robnugen.com/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-27-at-9.14.18-AM.png)
+[![Screen Shot 2013-01-27 at 9.14.18 AM](/images/2013/01/Screen-Shot-2013-01-27-at-9.14.18-AM.png)](/images/2013/01/Screen-Shot-2013-01-27-at-9.14.18-AM.png)

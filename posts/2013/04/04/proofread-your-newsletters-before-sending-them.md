@@ -42,4 +42,4 @@ Your name
 
 Ooops.  Well I guess they won't do that again soon.
 
-[![Screen Shot 2013-04-04 at 6.25.49 PM](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-04-at-6.25.49-PM.png)](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-04-at-6.25.49-PM.png)
+[![Screen Shot 2013-04-04 at 6.25.49 PM](/images/2013/04/Screen-Shot-2013-04-04-at-6.25.49-PM.png)](/images/2013/04/Screen-Shot-2013-04-04-at-6.25.49-PM.png)

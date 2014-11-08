@@ -16,12 +16,12 @@ I drew a snowman who then thought about killing his maker, but then the dog bark
 
 This works easily because the eraser too erases down to the original image, not down to the blank canvas.
 
-[![IMG_0549](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0549.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0549.png)
-[![IMG_0550](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0550.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0550.png)
-[![IMG_0551](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0551.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0551.png)
-[![IMG_0552](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0552.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0552.png)
-[![IMG_0553](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0553.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0553.png)
-[![IMG_0554](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0554.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0554.png)
-[![IMG_0555](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0555.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0555.png)
-[![IMG_0556](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0556.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0556.png)
-[![IMG_0557](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0557.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_0557.png)
+[![IMG_0549](/images/2013/02/IMG_0549.png)](/images/2013/02/IMG_0549.png)
+[![IMG_0550](/images/2013/02/IMG_0550.png)](/images/2013/02/IMG_0550.png)
+[![IMG_0551](/images/2013/02/IMG_0551.png)](/images/2013/02/IMG_0551.png)
+[![IMG_0552](/images/2013/02/IMG_0552.png)](/images/2013/02/IMG_0552.png)
+[![IMG_0553](/images/2013/02/IMG_0553.png)](/images/2013/02/IMG_0553.png)
+[![IMG_0554](/images/2013/02/IMG_0554.png)](/images/2013/02/IMG_0554.png)
+[![IMG_0555](/images/2013/02/IMG_0555.png)](/images/2013/02/IMG_0555.png)
+[![IMG_0556](/images/2013/02/IMG_0556.png)](/images/2013/02/IMG_0556.png)
+[![IMG_0557](/images/2013/02/IMG_0557.png)](/images/2013/02/IMG_0557.png)

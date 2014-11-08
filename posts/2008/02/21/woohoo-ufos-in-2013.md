@@ -20,6 +20,13 @@ tags: disclosure,news,UFO
 
   
 I can't really understand the POV (author vs audience) of this article; it seems like it's a copy of a transcript or something.. but anyway, I like this kinda thing when dates are given.. Nice juicy dates that aren't too far away. I can wait until 2012. Er, I mean 2013.  
-  
-  
+
+##7 November 2014
+
+Well, UFOs haven't arrived.
+
+Here's a snapshot of the site linked above, which seems to be slowly vanishing.
+
+[archive.today 7 Nov 2014 snapshot of http://www.ufodigest.com/news/0208/unmeeting.html](https://archive.today/6CsJS)
+
 

@@ -18,6 +18,6 @@ Why does Xcode have so many bugs?  Did I write it?
 
 As I write this, Xcode is locked up.  Apparently I'm going to have to force close it.
 
-[![Screen Shot 2013-02-01 at 8.38.17 PM](http://robnugen.com/blog/wp-content/uploads/2013/02/Screen-Shot-2013-02-01-at-8.38.17-PM.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/Screen-Shot-2013-02-01-at-8.38.17-PM.png)
+[![Screen Shot 2013-02-01 at 8.38.17 PM](/images/2013/02/Screen-Shot-2013-02-01-at-8.38.17-PM.png)](/images/2013/02/Screen-Shot-2013-02-01-at-8.38.17-PM.png)
 
 See how that little spinner isn't spinning in this image?  That's exactly how it's not spinning on my computer.

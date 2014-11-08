@@ -13,4 +13,4 @@ tags: Phoney
 Thank you, Wordpress!
   
   
-[![20130206-205531.jpg](http://robnugen.com/blog/wp-content/uploads/2013/02/20130206-205531.jpg)](http://robnugen.com/blog/wp-content/uploads/2013/02/20130206-205531.jpg)
+[![20130206-205531.jpg](/images/2013/02/20130206-205531.jpg)](/images/2013/02/20130206-205531.jpg)

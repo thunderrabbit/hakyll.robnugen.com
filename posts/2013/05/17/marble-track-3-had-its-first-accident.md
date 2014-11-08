@@ -18,4 +18,4 @@ In the foreground, pink guy and green head guy have just placed two long sticks 
 
 In other words, the scene looks like this:
 
-[![IMG_2810](http://robnugen.com/blog/wp-content/uploads/2013/05/IMG_2810-1024x768.jpg)](http://robnugen.com/blog/wp-content/uploads/2013/05/IMG_2810.jpg)
+[![IMG_2810](/images/2013/05/IMG_2810-1024x768.jpg)](/images/2013/05/IMG_2810.jpg)

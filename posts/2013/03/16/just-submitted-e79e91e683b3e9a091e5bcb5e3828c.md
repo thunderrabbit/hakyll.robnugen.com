@@ -14,7 +14,7 @@ Standing in the 2nd floor of the Shibuya Apple Store, with my phone charging on 
 
 The icon looks something like this:
 
-[![icon800](http://robnugen.com/blog/wp-content/uploads/2013/03/icon800.png)](http://robnugen.com/blog/wp-content/uploads/2013/03/icon800.png)
+[![icon800](/images/2013/03/icon800.png)](/images/2013/03/icon800.png)
 
 I know I dropped the れ, but I hope I used the right kanji!!!
 

@@ -16,7 +16,7 @@ I've finished a minute and 21 seconds worth of Marble Track 3 video.
 
 There's exactly one piece that crosses over another track.  In the image below, the pink character is standing on that piece which is marked with black.
 
-[![IMG_2813x1000](http://robnugen.com/blog/wp-content/uploads/2013/05/IMG_2813x1000-768x1024.jpg)](http://robnugen.com/blog/wp-content/uploads/2013/05/IMG_2813x1000.jpg)
+[![IMG_2813x1000](/images/2013/05/IMG_2813x1000-768x1024.jpg)](/images/2013/05/IMG_2813x1000.jpg)
 
 The other pieces marked in black are the continuation of that track, which ends in the lower middle of MT3. (hmm I'm using the word "track" to describe a single track and "track" to describe the entire thing.)
 

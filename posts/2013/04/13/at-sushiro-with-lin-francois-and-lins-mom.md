@@ -15,4 +15,4 @@ tags: Francois,sushi
 At 回転すし with Francois, Lin, and Lin's mom. 
   
   
-[![20130413-173806.jpg](http://robnugen.com/blog/wp-content/uploads/2013/04/20130413-173806.jpg)](http://robnugen.com/blog/wp-content/uploads/2013/04/20130413-173806.jpg)
+[![20130413-173806.jpg](/images/2013/04/20130413-173806.jpg)](/images/2013/04/20130413-173806.jpg)

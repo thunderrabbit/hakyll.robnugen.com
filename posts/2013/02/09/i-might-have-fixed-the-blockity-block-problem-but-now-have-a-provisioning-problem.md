@@ -19,6 +19,6 @@ However, I have to deal with Apple's lovely provisioning process; I added Jimmy'
 
 I get this super precise incredibly unhelpful error message:
 
-[![Screen Shot 2013-02-09 at 11.04.25 PM](http://robnugen.com/blog/wp-content/uploads/2013/02/Screen-Shot-2013-02-09-at-11.04.25-PM.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/Screen-Shot-2013-02-09-at-11.04.25-PM.png)
+[![Screen Shot 2013-02-09 at 11.04.25 PM](/images/2013/02/Screen-Shot-2013-02-09-at-11.04.25-PM.png)](/images/2013/02/Screen-Shot-2013-02-09-at-11.04.25-PM.png)
 
 I won't quote it because I don't have a solution, but I'll be looking for the solution soon enough. (I can still submit ad hoc versions for our dev testers so I don't care until it's time to submit the app to Apple.)

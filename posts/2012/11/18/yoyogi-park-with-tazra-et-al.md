@@ -14,7 +14,7 @@ After super yoga and delicious lunch yesterday at Paola's, Lin and I ate delicio
 
 We ate, stayed up late, woke up late, had fruit smoothies, then joined the dogs for a walk in Yoyogi Park.
 
-[![back row: Lin, Rob, Rodrigo; front row: Addie, Tess, Tazra](http://robnugen.com/blog/wp-content/uploads/2012/11/photo.jpg)](http://robnugen.com/blog/wp-content/uploads/2012/11/photo.jpg)
+[![back row: Lin, Rob, Rodrigo; front row: Addie, Tess, Tazra](/images/2012/11/photo.jpg)](/images/2012/11/photo.jpg)
 
 back row: Lin, Rob, Rodrigo
 front row: Addie, Tess, Tazra

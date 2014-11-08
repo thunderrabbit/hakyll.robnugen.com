@@ -18,7 +18,7 @@ But now all I see is "funny cat videos" where I would like to see the URL http:/
 
 The interwebs are based on the concept of hyperlinks, not hypersearchterms. It's a pain for me now to use Safari to create links for sharing.
 
-[![Screen Shot 2013-02-17 at 10.10.31 AM](http://robnugen.com/blog/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-10.10.31-AM.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-10.10.31-AM.png)
+[![Screen Shot 2013-02-17 at 10.10.31 AM](/images/2013/02/Screen-Shot-2013-02-17-at-10.10.31-AM.png)](/images/2013/02/Screen-Shot-2013-02-17-at-10.10.31-AM.png)
 
 Maybe Safari is simply trying to hide [Google's new improved  URLs](http://stackoverflow.com/questions/7097270/whats-up-with-this-google-url)
 

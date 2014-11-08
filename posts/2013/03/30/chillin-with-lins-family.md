@@ -12,4 +12,4 @@ tags: family,journal
 
 Mikarin did a mini piano recital and Takun celebrated his entrance into first grade.  
   
-[![20130330-191509.jpg](http://robnugen.com/blog/wp-content/uploads/2013/03/20130330-191509.jpg)](http://robnugen.com/blog/wp-content/uploads/2013/03/20130330-191509.jpg)
+[![20130330-191509.jpg](/images/2013/03/20130330-191509.jpg)](/images/2013/03/20130330-191509.jpg)

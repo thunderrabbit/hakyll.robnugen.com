@@ -12,4 +12,4 @@ tags: internet
 
 oh nooooes
 
-[![Screen shot 2013-02-18 at 2.48.31 PM](http://robnugen.com/blog/wp-content/uploads/2013/02/Screen-shot-2013-02-18-at-2.48.31-PM.png)](http://robnugen.com/blog/wp-content/uploads/2013/02/Screen-shot-2013-02-18-at-2.48.31-PM.png)
+[![Screen shot 2013-02-18 at 2.48.31 PM](/images/2013/02/Screen-shot-2013-02-18-at-2.48.31-PM.png)](/images/2013/02/Screen-shot-2013-02-18-at-2.48.31-PM.png)

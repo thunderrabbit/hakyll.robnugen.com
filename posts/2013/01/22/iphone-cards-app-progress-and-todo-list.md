@@ -16,4 +16,4 @@ He made smaller icons for the menu and I incorporated them. Between arriving hom
 
 Things to do include:
 
-[![Screen Shot 2013-01-22 at 12.38.04 AM](http://robnugen.com/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-22-at-12.38.04-AM.png)](http://robnugen.com/blog/2013/01/22/iphone-cards-app-progress-and-todo-list/screen-shot-2013-01-22-at-12-38-04-am/)
+[![Screen Shot 2013-01-22 at 12.38.04 AM](/images/2013/01/Screen-Shot-2013-01-22-at-12.38.04-AM.png)](http://robnugen.com/blog/2013/01/22/iphone-cards-app-progress-and-todo-list/screen-shot-2013-01-22-at-12-38-04-am/)

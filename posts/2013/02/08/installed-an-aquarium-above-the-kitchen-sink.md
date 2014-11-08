@@ -42,4 +42,4 @@ My suggested future development, possibly in order of easiest to hardest:
   7. make the background 3D instead of just an image
 
 
-[![IMG_3824_small](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_3824_small.jpg)](http://robnugen.com/blog/wp-content/uploads/2013/02/IMG_3824_small.jpg)
+[![IMG_3824_small](/images/2013/02/IMG_3824_small.jpg)](/images/2013/02/IMG_3824_small.jpg)

@@ -12,8 +12,8 @@ tags: art,journal
 
 Not so secret if I post online, but still
 
-[![](http://robnugen.com/blog/wp-content/uploads/2012/12/IMG_3265-300x225.jpg)](http://robnugen.com/blog/wp-content/uploads/2012/12/IMG_3265.jpg)
+[![](/images/2012/12/IMG_3265-300x225.jpg)](/images/2012/12/IMG_3265.jpg)
 
 Fun times!
 
-[![](http://robnugen.com/blog/wp-content/uploads/2012/12/IMG_3269-1024x768.jpg)](http://robnugen.com/blog/wp-content/uploads/2012/12/IMG_3269.jpg)
+[![](/images/2012/12/IMG_3269-1024x768.jpg)](/images/2012/12/IMG_3269.jpg)

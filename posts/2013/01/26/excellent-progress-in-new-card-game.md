@@ -16,4 +16,4 @@ This is my second big iOS project, a lot of which is based on [Matthijs Holleman
 
 I've just gotten the in-game tutorial to work, though its alignment... isn't. Yay for blocks and tutorials and screenshots!
 
-[![Screen Shot 2013-01-26 at 12.27.59 PM](http://robnugen.com/blog/wp-content/uploads/2013/01/Screen-Shot-2013-01-26-at-12.27.59-PM.png)](http://robnugen.com/blog/2013/01/26/excellent-progress-in-new-card-game/screen-shot-2013-01-26-at-12-27-59-pm/)
+[![Screen Shot 2013-01-26 at 12.27.59 PM](/images/2013/01/Screen-Shot-2013-01-26-at-12.27.59-PM.png)](http://robnugen.com/blog/2013/01/26/excellent-progress-in-new-card-game/screen-shot-2013-01-26-at-12-27-59-pm/)

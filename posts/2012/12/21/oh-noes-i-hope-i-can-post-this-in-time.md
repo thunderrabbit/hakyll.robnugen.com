@@ -12,7 +12,7 @@ tags: news
 
 My last post of the world!  >_>
 
-[![Screen shot 2012-12-21 at 20.10.58 PM](http://robnugen.com/blog/wp-content/uploads/2012/12/Screen-shot-2012-12-21-at-20.10.58-PM.png)](http://robnugen.com/blog/?attachment_id=643)
+[![Screen shot 2012-12-21 at 20.10.58 PM](/images/2012/12/Screen-shot-2012-12-21-at-20.10.58-PM.png)](http://robnugen.com/blog/?attachment_id=643)
 
 
 

@@ -18,13 +18,13 @@ Travis made a 3D maze for me!  It's not quite 3D so much as it's layers of 2D.  
 
   
   
-[![20130503-183852.jpg](http://robnugen.com/blog/wp-content/uploads/2013/05/20130503-183852.jpg)](http://robnugen.com/blog/wp-content/uploads/2013/05/20130503-183852.jpg)
+[![20130503-183852.jpg](/images/2013/05/20130503-183852.jpg)](/images/2013/05/20130503-183852.jpg)
 
 And now, dinner!!
 
   
   
-[![20130503-184222.jpg](http://robnugen.com/blog/wp-content/uploads/2013/05/20130503-184222.jpg)](http://robnugen.com/blog/wp-content/uploads/2013/05/20130503-184222.jpg)
+[![20130503-184222.jpg](/images/2013/05/20130503-184222.jpg)](/images/2013/05/20130503-184222.jpg)
 
 **7:49pm Friday 3 May 2013**
 

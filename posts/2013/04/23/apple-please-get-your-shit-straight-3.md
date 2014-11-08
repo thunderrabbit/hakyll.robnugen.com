@@ -18,6 +18,6 @@ But that's not why I'm bitching.
 
 When creating the test account, I tried to use the email address c at robnugen.com, but an error message said I had already used it.  No, I'm pretty sure I haven't used it before.  I tried d; I tried e.  I tried asdf.  I tried fukcinggodamninfuriating, cause I'm pretty sure I haven't used that one.  Apple assures me I have.
 
-[![Screen Shot 2013-04-23 at 8.43.29 PM](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-23-at-8.43.29-PM.png)](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-23-at-8.43.29-PM.png)
+[![Screen Shot 2013-04-23 at 8.43.29 PM](/images/2013/04/Screen-Shot-2013-04-23-at-8.43.29-PM.png)](/images/2013/04/Screen-Shot-2013-04-23-at-8.43.29-PM.png)
 
-[![Screen Shot 2013-04-23 at 10.03.00 PM](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-23-at-10.03.00-PM.png)](http://robnugen.com/blog/wp-content/uploads/2013/04/Screen-Shot-2013-04-23-at-10.03.00-PM.png)
+[![Screen Shot 2013-04-23 at 10.03.00 PM](/images/2013/04/Screen-Shot-2013-04-23-at-10.03.00-PM.png)](/images/2013/04/Screen-Shot-2013-04-23-at-10.03.00-PM.png)

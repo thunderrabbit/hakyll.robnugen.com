@@ -16,4 +16,4 @@ After reading on HN that [Google has discontinued Blocked Sites](http://support.
 
 My creation hasn't been approved yet, but it's apparently visible if you click [Rob's floating v-shaped Lego thing](www.buildwithchrome.com/build/cFId).  It looks something like this
 
-[![Screen Shot 2013-03-24 at 6.49.57 PM](http://robnugen.com/blog/wp-content/uploads/2013/03/Screen-Shot-2013-03-24-at-6.49.57-PM.png)](http://robnugen.com/blog/wp-content/uploads/2013/03/Screen-Shot-2013-03-24-at-6.49.57-PM.png)
+[![Screen Shot 2013-03-24 at 6.49.57 PM](/images/2013/03/Screen-Shot-2013-03-24-at-6.49.57-PM.png)](/images/2013/03/Screen-Shot-2013-03-24-at-6.49.57-PM.png)
