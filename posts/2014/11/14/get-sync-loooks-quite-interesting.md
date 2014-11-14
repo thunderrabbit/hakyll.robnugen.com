@@ -14,3 +14,9 @@ not, whose data am I storing?  How does it deal with spotty
 connectivity?  Hmmmm!
 
 Get Sync at [http://www.getsync.com/](http://www.getsync.com/).
+
+##17:46
+
+Oh, I think I understand!  It's basically a way for me to seed files
+to other devices. The files don't go anywhere unless someone click the
+link to receive a copy.
