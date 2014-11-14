@@ -12,8 +12,9 @@ This is the fourth incarnation of my online journal.  I think I'll use it for a 
 4. [hakyll] (2014- ?)
 
 Super thanks to [DarkFox] for his hakyll blog on darcs: [http://hub.darcs.net/DarkFox/DarkFox-blog](http://hub.darcs.net/DarkFox/DarkFox-blog)
-Source code is available on github. [https://github.com/thunderrabbit/hakyll-journal](https://github.com/thunderrabbit/hakyll-journal)
+Source code is available on github: [https://github.com/thunderrabbit/hakyll.robnugen.com](https://github.com/thunderrabbit/hakyll.robnugen.com)
 
+But the repo will (probably) get blown away after [hakyll-journal](https://github.com/thunderrabbit/hakyll-journal) reaches v1.0.
 
 [perl]:         http://robnugen.com/cgi-bin/journal.pl "beautiful Perl hack by Fred and I"
 [wordpress]:    http://robnugen.com/blog
