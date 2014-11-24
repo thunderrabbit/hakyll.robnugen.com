@@ -12,6 +12,8 @@ ahead, but it's physically impossible to pass people while on the
 course (assuming everyone put their pulley on the zip line) (unless we
 change harnesses!)
 
+[![M on twisty bridge](/images/2014/11/thumbs/M on twisty bridge.png)](/images/2014/11/M on twisty bridge.png)
+
 While waiting for people to move along on the course (so I could run
 and catch up with them), I spoke with a staff person named Miyuki who
 said she can finish the entire course in 30 minutes.  It took us 2
