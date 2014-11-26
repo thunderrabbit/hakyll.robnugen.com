@@ -28,3 +28,21 @@ though C-b has to be pressed twice for each move-cursor-back command
 the something in the mix.
 
 I was able to edit files in a repo, push the changes to github; wow wow wow!
+
+- - - - -
+
+##15:06
+
+This, for example, is being typed on Cloud 9's interface, which offers things
+like visible whitespace,
+
+multiple cursors,
+multiple cursors,
+multiple cursors,
+multiple cursors,
+
+![Cloud 9 text editor](/images/2014/11/Cloud 9 2014-11-26 at 3.09.25 PM.png)
+
+drag and drop images(!), and though I haven't found it, apparently some type of image editor.
+
+![I found the Cloud 9 image editor](/images/2014/11/Cloud 9 2014-11-26 at 3.09.25 PM 1.png)
