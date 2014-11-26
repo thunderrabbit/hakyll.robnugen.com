@@ -45,4 +45,4 @@ multiple cursors,
 
 drag and drop images(!), and though I haven't found it, apparently some type of image editor.
 
-![I found the Cloud 9 image editor](/images/2014/11/Cloud 9 2014-11-26 at 3.09.25 PM 1.png)
+![I found the Cloud 9 image editor](/images/2014/11/Cloud 9 2014-11-26 at 3.09.25 PM.1.png)
