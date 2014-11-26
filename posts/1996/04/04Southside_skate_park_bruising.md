@@ -1,0 +1,67 @@
+---
+title: Southside skate park bruising
+tags: skate
+author: Rob Nugen
+date: 1996-04-04
+---
+
+<p class=date>4 April 1996<p>
+
+<p>Last Friday I went to Southside Skate Park and met Ed there.  That
+was only the second time I had gone to do vert ramps and such.  The
+first time I went, it was inline skaters only.  Friday there were
+skaters, skate boarders, and lots of guys on bikes.  I noted that I
+was easily the oldest person there, including Ed, as I found out that
+he is like 1 month younger than I.</p>
+
+<p>Anyway, there is a 9 foot tall half-pipe, and Ed was instructing a little
+dude named Alex how to skate it.  Alex is probably 10.  I watched and then
+went up the steps to the top of the ramp and realized I should probably
+get warmed up a bit before I try it.  (I'm becoming wiser in my old age.)</p>
+
+<p>So I went back down the steps and skated around the street course a bit.
+It consists basically of some ramps at either end of the room, and a couple
+of skateable obstacles in the middle: a hump, a rail, and another hump/rail.
+I skated up one of the 6 foot ramps and proceeded to skate down and *SPLAT*
+right on my same hip I always hit ****OWW!!***** <em>FUCK!</em>, I failed
+to lean forward enough.  Groan, oh man, I could feel that my guts had just
+galushed inside me, aaaoohhhh yuck..i..hate..that..feeling.  I got off the
+ground immediately and fortunately didn't have to move too much to roll
+over to the side.  I felt like crap.  I thought about going home, but I
+just chilled for about 8 minutes and recovered mostly.</p>
+
+<p>So I went to the less steep 6 foot ramp and skated up and down it with no
+problem.  Cool.  I even dropped into the 4 foot half-pipe and had limited
+problems.  Good. I'm ready for the 9 foot half pipe.  I clunked back up the
+stairs and sat for a bit beside Ed.  After watching the apparently unbreakable
+14 year olds for a second, I was ready.  "okay lean forward lean forward,"
+I told myself as I skated to the edge of the 9 foot drop.  Forwaaarrd and
+zoom*splat too far forward *crap*! I skinned my knee a bit even though
+I had knee pads on.  I've got to get new pads.   Okayokayokay so I need
+to practice a bit more.</p>
+
+<p>I did the 4 foot half pipe several more times and then the first steep 6 foot
+ramp on which I had first busted my hip, and had no worries on all these
+excursions.  I fell several times, but not from like 6 or 9 feet in the air.
+No problems.</p>
+
+<p>So I went back to the 9 foot halfpipe and felt confident that I could skate
+it.  I had done it before!  What's the big deal this time???  So I dropped
+in to the 9 foot ramp and *Zoom* down *zoom* up and turn and zoom down</p>
+
+<p>*crunch* I wrecked at the bottom.    Much better!  I went up to the top
+again and *Zoom* down *crunch* I reached out to support myself as I fell and
+strained my right shoulder.  OW.  ow owowowowowow.  Ow that hurt!</p>
+
+<p>So I skated it again and again and after Alex was finished with his training,
+Ed said to me, "come over to the mini-ramp we're going to straighten yourass
+out."   Cool.  Ed is the best skater, and best instructor in Houston, so I'm
+pleased.  I did it a couple of times and Ed told me I just need to relax more.
+Just skate and flow with it.   Hmmm..</p>
+
+<p>It was getting late, and I was bruised pretty badly on my hip.  Ed
+had been skating solid for 9 hours.  As the whole place was closing, I
+realized I lost my car key.  Doh!!  So we scoured the floor, but never
+found it.  Fortunately, a guy in a garage across the street was pretty
+handy with a slim jim.  Broke into my car and fortunately I did have
+my ignition key.  Got home at about 11pm.</p>
