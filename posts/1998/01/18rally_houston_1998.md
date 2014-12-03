@@ -1,0 +1,169 @@
+---
+title: rally houston 1998
+tags: YRUU
+author: Rob Nugen
+date: 1998-01-18
+---
+
+<title>Houston Rally 1998</title>
+
+<p class=date>16-18 January 1998</p>
+<p>
+
+After a few weeks of receiving registrations via mail and phone and
+fax and email, we had 111 youth registrations and 22 adult
+registrations.  I received 7 registrations on the Friday the rally
+began.  Holy cow what a huge rally!
+<p>
+Friday morning I picked up the T-shirts bearing our controversial
+"Imagine the Cat in the Hat Burning the Flag" title and image of a
+seedy looking cat holding a lighter.  In the background is an American
+flag except the stars are replaced by a large question mark.  I had
+ordered and picked up 130 shirts.
+<p>
+Friday day Denise and I spent $520 buying a lot of food.
+<p>
+Friday night the people started pouring in.  Everything stayed calm
+and stable, but just slowly wound up and up as more people arrived.
+At 1am we had a rally virgin opening circle and it went a little long
+as I couldn't think of what I wanted to say.  I think we got it all
+covered and it was all good.
+<p>
+Opening circle for the whole rally was at 2am, and I tossed Jon W-L
+out in the middle of the circle and said, "go for it," assuming he
+knew what to say.  So opening circle was a bit shaky, but still fun
+and funny.  At one point, Arlene D was hollering something about
+something while we were trying to define the No Sex rule.  I hollered
+over toward her from my <em><b>Pulp Fiction</b></em> favorite quote list, "tell that
+bitch to chill! .. Tell her 'chill, bitch, chill!' ... Yolanda!
+Yolanda!  What's Fonzie like?  Dassright!  he's coool.  and that's
+what we're going to be.  we gonna be cooool."  Kim S is the only
+person I saw who noticed and knew what it was from.
+<p>
+After opening circle, double chaos began as I let everyone go at the
+same time to their touch groups, and no one knew who was in their
+touch group and it was nuts.  The rally had begun like crap and I was
+feeling a bit responsible.
+(let this be a lesson if you're designing a rally: give everyone a
+bead or something that tells what group they're in, *or* send each
+group out one at a time by calling each individual's name.)
+<p>
+After helping people get to their touch groups, I finally made it to
+mine and helped Anna M out a bit and we had a great touch group.
+<p>
+I stayed up talking with people and stuff until like 4:30am.
+<p>
+My internal rally-clock woke me up excited after sleeping 3.5 hours; I
+went to wake up Charlotte, the touch group leader in charge of making
+breakfast.  I found her in the kitchen with her touchgroup and
+breakfast was practically made!!!  Yay!!  All the anxiety I felt about
+the chaotic start of the rally flittered away like happy butterflies.
+<p>
+I bounced around talking to others who had woken up and many who had not
+slept yet.
+<p>
+Later I was talking to a few advisors outside.  We had been talking
+about emotions and the meaning of life when Charlie G had just brought
+up the book _Conversations with God_ by Neale Walsch. I told him I
+hadn't read it, but was interested.  He commented that bringing up
+that book makes people leave the conversation because no one wants to
+talk about it.  "Hmmm," I thought.
+<p>
+Soon Daniel or someone ran up and was all, "Rob!  We're playing
+Ultimate over in the parking lot!"<br>
+Cool. As I left to play, Charlie was all, "see- it clears the table
+because no one wants to talk about it."<br>
+My brain jerked back, "what?" Holy moly..  He had just said bringing
+up the book would clear the table, I promptly disbelieved that and
+forgot about it and left the table.  Wow!
+<p>
+During Ultimate, we had great fun, even playing while the disc had a
+big crack in it.  We even played two short spontaneous games after the
+disk was broken, claiming the bigger section was worth three-quarters
+of a point, and I was part of the group playing for one-quarter of a
+point.
+<p>
+At 2:30 or so, our theme speaker, Warren Apel from Arizona, talked
+about First Amendment rights, including but not condoning flag
+desecration.  The workshop was well attended, and quite informative.
+I slept through about 1/2 of it.
+<p>
+I was in YAC meetings for much of the afternoon.  We selected the
+youth staff for this coming SWUUSI.  I don't remember everyone who was
+selected, but I do remember that Maia C and Ashley R are the co-deans,
+Nathan R is the worship coordinator, Jen C is the mugbook editor, Nick
+C is the special events coordinator, Adam L is the spirit leader, and
+that's all I remember.  Congratulations to all who were selected!!
+<p>
+Soon we needed to have a YRUU meeting to vote for YAC positions. All
+the YAC candidates presented their ad-lib speeches and everyone needed
+to vote.
+<p>
+I had a bit of a logistics problem:<br>
+<ul>
+<li>We needed all the youth to vote for 3 YAC positions.</li>
+<li>People in the kitchen had just gotten vegetarian food ready (after I
+totally screwed up and didn't have any for the main dinnertime).
+</li>
+<li>The special event was ready to go.</li>
+</ul>
+<p>
+I felt greatly pleased with how the transition turned out.  I
+announced, "okay!  That's all the YAC candidates!  Now you get to vote
+on your favorite 3.  And after you vote, you can eat vegetarian in the
+kitchen!"  Everything went smoothly, everyone got to eat, and the
+special event was inflated.  Yay!!!!
+<p>
+From the general youth perspective, I believe the best part of the
+rally was our special event.  Jason Fricke's idea was to rent a
+"Bouncy Boxing" thing.  It's one of those air-filled "moonwalk" deals
+except the participants wear enormous soft boxing gloves and bounce
+around and wail on one another.
+<p>
+To see the folded red canvas in the middle of the room slowly swell
+into a fully huge bouncy boxing ring was incredible.  We had not told
+anyone what was growing to be the special event.  I loved it.
+I never challenged anyone to boxing, but I jumped and jumped about 5
+different times with various people.  It was the most fun I've had in
+a long while.
+<p>
+The Bouncy Boxing was there from like 9:15 till just after midnight,
+when everyone was asked to gather for the worship.  The youth had
+designed another wonderful experience, building the spiritual
+community to new levels of wonderfulness.
+<p>
+About an hour later, we gently sang our way back to the main hall for
+random mingling and then the talent show!
+<p>
+Kristian S did a hilarious parody of Marilyn Manson's "Sweet Dreams"<br>
+Sean and Steve performed one of their old rally classics, plus "Dead
+Puppies" (another rally classic) and Sean sang "If I Ever Fall in
+Love" a capella.<br>
+Some youth recited their own emotionally harsh poetry and Mary S
+dramatized a suicide to Tori Amos' song "Marianne."<br>
+I performed "cool and creamy" with Jen C, singing and resulting in
+whipped cream all over one another.  You should have been there!<br>  As
+we cleaned that up, Aaron I and Kristian S performed Madonna's "Like a
+Prayer" and some others.<br>
+I got to drum for Mike N rapping, *and* Jen C & Dane D did part III of
+San Antonio Saki, with Kristian S and I lip synching their words and
+other sound effects.  Very funny... especially Kris.<br>
+Then Shira (I think) performed her most annoying sound and the show
+kinda fizzled from there.
+<p>
+Then we had a SWUUSI 1997 dance relapse with the wacky Seasame Street
+song (I still don't know who performs that) twice!!!!  What an
+incredible energy drain is that song!
+Then Korn (I don't know what song) was played several times and I stayed
+up cleaning with some youth for about 1.5 hours.
+I greatly appreciate their help.
+<p>
+I slept from 4:30am to 6:00am.  
+<p>
+We groggily got up at 6 to clean clean clean and amazingly, by 8am, the
+place was perfect. 
+Closing circle out in the parking lot and I was deeply emotionally
+touched when I hugged Charlie G and he gave me a beautiful hardback copy
+of <em>Conversations With God</em>.   
+<p>
+What a perfect touch to a perfect weekend!</p>
