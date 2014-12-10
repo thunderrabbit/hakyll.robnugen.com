@@ -23,8 +23,8 @@ ALINK ="FF0000" VLINK ="FF00FF">
 
 <p><h3>December 1998</h3>
 <ul>
-<li>30 December 1998 <a href="twisted_christmas.html">A Twisted Christmas</a></li>
-<li>30 December 1998 <a href="christmas.html">Christmas</a></li>
+<li>30 December 1998 <a href="/1998/12/30twisted_christmas/">A Twisted Christmas</a></li>
+<li>30 December 1998 <a href="/1998/12/30christmas">Christmas</a></li>
 <li>23 December 1998 <a href="scanned_costa_rica.html">Scanned the rest of my Costa Rica pics!</a></li>
 <li>23 December 1998 <a href="work_for_myself.html">Productive day working for myself</a></li>
 <li>21 December 1998 <a href="ktru_application.html">KTRU application</a></li>
