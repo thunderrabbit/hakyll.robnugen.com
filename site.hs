@@ -38,7 +38,7 @@ siteConfig = toContext
 hakyllConfig :: Configuration
 hakyllConfig = defaultConfiguration
     { deployCommand = rsync ++ "_site/ ~/public; " ++
-                      rsync ++ "_site/ hakyll:/usr/share/nginx/html"
+                      rsync ++ "_site/ hakyll:~/hakyll.robnugen.com"
     }
   where
     rsync :: String
