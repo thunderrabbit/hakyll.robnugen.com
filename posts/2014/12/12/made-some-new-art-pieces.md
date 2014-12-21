@@ -15,3 +15,10 @@ I'll draw a maze or two behind them; I drew some dots on the edges where the maz
 [![four panels with green and pink lines](/images/2014/12/thumbs/four pieces I drew today.png)](/images/2014/12/four pieces I drew today.png)
 
 [Update](/2014/12/14/nine-panel-maze/)
+
+And though I'm not particularly happy with it, I made this piece
+because Mutsumi's friend asked if I can write some words on a design.
+
+[![Happy](/images/2014/12/thumbs/Happy 2014-12-11 09.40.48.png)](/images/2014/12/Happy 2014-12-11 09.40.48.png)
+
+[Update (wow she selected it!)](/2014/12/16/great-great-great-sales-day/)

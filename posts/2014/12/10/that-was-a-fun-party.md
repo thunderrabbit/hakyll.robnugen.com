@@ -5,6 +5,12 @@ author: Rob Nugen
 date: 2014-12-10
 ---
 
+##16:39 Wednesday 10 December 2014 JST##
+
+I've seen this truck each time I come to the lessons in Fukuura:
+
+[![Hawaii Water truck](/images/2014/12/thumbs/Hawaii water 2014-12-10 16.39.32.png)](/images/2014/12/Hawaii water 2014-12-10 16.39.32.png)
+
 ##20:26 Wednesday 10 December 2014 JST##
 
 The party was fun; lots of conversation, plus an emcee up front

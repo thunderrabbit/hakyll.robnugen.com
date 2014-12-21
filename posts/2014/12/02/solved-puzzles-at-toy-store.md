@@ -19,3 +19,7 @@ next time I go back (unless they glue it together!)
 
 When I left, the girl was like, "さよなら！" (sayonara, which means
 "see ya dunno when") and I was thinking "no way, see you next week!"
+
+##09 December 2014
+
+[Update](/2014/12/09/puzzle-still-intact/) (survived a week)

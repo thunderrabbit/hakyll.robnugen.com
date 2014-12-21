@@ -7,6 +7,10 @@ date: 2014-12-06
 
 ##21:36 Saturday 06 December 2014 JST##
 
+<div style="float:left;margin-right:5px">
+[![杏仁豆腐](/images/2014/12/thumbs/mama made dessert 2014-12-06 17.22.05.png)](/images/2014/12/mama made dessert 2014-12-06 17.22.05.png)
+</div>
+
 Lin's mom made about 6 different Taiwanese dishes for a dinner party
 featuring Jas, Jon, Paola, Lin, and me.  Great delicious, though a
 couple were a bit spicy for me.
